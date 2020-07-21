@@ -1,5 +1,3 @@
-#Deveopled by Hossein Siamaknejad
-
 #pip install pynput
 import autopy as ap
 import time
