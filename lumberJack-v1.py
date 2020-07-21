@@ -1,3 +1,5 @@
+
+
 #pip install pynput
 import autopy as ap
 import time
@@ -33,7 +35,7 @@ for i in range(1, 1000):
     if rgbM[0]!=155:
         break
     
-    delay = 0.14
+    delay = 0.15
     
     if rgbR2[0]>130 and rgbR2[0]<178 : #Brown
         print('L Key')
